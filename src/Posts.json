@@ -1,0 +1,12 @@
+[
+    {
+        "id": 123,
+        "postTitle": "This is first post",
+        "postDetail": "This is detail of first post"
+    },
+    {
+        "id": 456,
+        "postTitle": "This is 2nd post",
+        "postDetail": "This is detail of 2nd post"
+    }
+]
